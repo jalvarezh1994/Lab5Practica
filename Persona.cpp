@@ -3,7 +3,7 @@
 using namespace std;
 
 
-class Persona{
+
 	
      Persona::Persona();
 	
@@ -52,7 +52,7 @@ class Persona{
      
            	
      
-};
+
 
 
 

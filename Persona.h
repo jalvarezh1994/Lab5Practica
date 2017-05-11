@@ -32,7 +32,7 @@ class Persona{
 };
 
 
-#endif;
+#endif
 
 
 

@@ -1,13 +1,15 @@
 #include <iostream>
 #include <vector>
 #include "Dinosaurio.h"
-#include "Persona.h"
+//#include "Persona.h"
 
 using namespace std;
 vector<Dinosaurio> Dinosaurios;
-vector<Persona> Personas;
+//vector<Persona> Personas;
 
 int main(){
+  Dinosaurio dino;
+ // Persona daniel;
 	cout<<"Menú"<<endl;
         cout<<"1. Agregar"<<endl;
         cout<<"2. Listar"<<endl;
