@@ -5,7 +5,9 @@ using namespace std;
 
 
 	
-     Persona::Persona();
+     Persona::Persona(){
+     
+     }
 	
      Persona::Persona(string nombre, string ID, string sexo, int edad){
 

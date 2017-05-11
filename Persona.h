@@ -2,7 +2,7 @@
 
 #ifndef PERSONA_H
 #define PERSONA_H
-
+using namespace std;
 
 class Persona{
 

@@ -3,7 +3,9 @@
 #include "Persona.h"
 using namespace std;
 
-  Dinosaurio::Dinosaurio();
+  Dinosaurio::Dinosaurio(){
+  
+  }
   
   Dinosaurio::Dinosaurio(string nombre,double altura,double peso, string sexo, double largo){
     this->nombre = nombre;

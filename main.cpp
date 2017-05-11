@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 #include "Dinosaurio.h"
-//#include "Persona.h"
+#include "Persona.h"
 
 using namespace std;
 vector<Dinosaurio> Dinosaurios;
@@ -9,7 +9,7 @@ vector<Dinosaurio> Dinosaurios;
 
 int main(){
   Dinosaurio dino;
- // Persona daniel;
+  Persona daniel;
 	cout<<"Menú"<<endl;
         cout<<"1. Agregar"<<endl;
         cout<<"2. Listar"<<endl;
