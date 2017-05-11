@@ -4,7 +4,8 @@
 #include "Persona.h"
 
 using namespace std;
-vector<Dinosaurio> 
+vector<Dinosaurio> Dinosaurios;
+vector<Persona> Personas;
 
 int main(){
 	cout<<"Menú"<<endl;
@@ -36,4 +37,12 @@ int main(){
                 }
         }
 	return 0;
+}
+
+void agregarPersona(){
+//	if()
+}
+
+void agregarDinosaurio(){
+	
 }
