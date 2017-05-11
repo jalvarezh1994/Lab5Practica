@@ -1,4 +1,4 @@
-include "Dinosaurio.h"
+#include "Dinosaurio.h"
 #include <string>
 #include "Persona.h"
 using namespace std;
