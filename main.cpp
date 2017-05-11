@@ -2,6 +2,8 @@
 #include <vector>
 #include "Dinosaurio.h"
 #include "Persona.h"
+#include "Carnivoro.h"
+#include "Herbivoro.h"
 #include <string>
 
 using namespace std;
@@ -24,6 +26,10 @@ int main(){
   //
   Dinosaurios.push_back(dino);
   cout<<Dinosaurios[0].getNombre();*/
+  Carnivoro c("asdf",5,15,"m",15,"asdf","fdsa");
+  Herbivoro h("asdf",5,15,"m",15,22,"asdf");
+  cout<<h.getNombre()<<endl;
+  cout<<c.getNombre()<<endl;
   bool vivo = true;
   while(vivo){
 	cout<<"Menú"<<endl;
