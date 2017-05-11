@@ -20,6 +20,8 @@ int main(){
   //string nombre = daniel.getNombre();
   //string nombre = dino.getAltura;
   //cout<<nombre;
+  //
+  //
   Dinosaurios.push_back(dino);
   cout<<Dinosaurios[0].getNombre();*/
   bool vivo = true;
